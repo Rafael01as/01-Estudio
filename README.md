@@ -1,2 +1,2 @@
 # 01-Estudio
- Meu primeio aplicativo em Jana
+ Meu primeio aplicativo em Java
